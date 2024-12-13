@@ -36,7 +36,7 @@ There are a couple ways you can try [to get help][get help].You can also join th
 * You should treat IRC as what it is: asynchronous chat.  Sure the messages can
   be instant but in most channels people are in different time zones.  At times
   chat replies can be in excess of 24hrs.
-  
+
 ## Crowfunding
 
 If you like us and want to send us a small contribution you can use the following crowfunding services
@@ -48,7 +48,7 @@ If you like us and want to send us a small contribution you can use the followin
 * [donate-opencollective]
 
 * [donate-communitybridge]
-  
+
 ## License
 
 [Schema2ldif][Schema2ldif] is  [BSD 3-clause](LICENSE).
