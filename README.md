@@ -27,22 +27,6 @@ The installation and upgrade information is available on [Install Schema2ldif][s
 
 There are a couple ways you can try [to get help][get help].You can also join the `#fusiondirectory` IRC channel at libera.chat.
 
-### Professional support
-
-Professional support is provided through of subscription.
-
-We have two type of subscription :
-
-* [FusionDirectory][subscription-fusiondirectory] : Global subscription for FusionDirectory and all the plugins
-* [FusionDirectory Plus][subscription-fusiondirectory-plus] : Expert Support on Education, Deployement and Infrastructure plugins
-
-The subscription provides access to FusionDirectory's stable enterprise repository, providing reliable software updates and security enhancements,
-as well as technical help and support.
-
-Choose the plan that's right for you. Our subscriptions are flexible and scalable according to your needs
-
-The subscription period is one year from the date of purchase and gives you access to the extensive infrastructure of enterprise-class software and services.
-
 ## IRC Etiquette
 
 * If we don't answer right away then just hang out in the channel.  Someone will
