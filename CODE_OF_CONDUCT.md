@@ -72,4 +72,3 @@ available at [https://www.contributor-covenant.org/version/1/4][version]
 
 [homepage]: https://www.contributor-covenant.org
 [version]: https://www.contributor-covenant.org/version/1/4/
-

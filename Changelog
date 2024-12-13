@@ -21,4 +21,3 @@ Schema2ldif changelog
 [Fix] Bugs #2337: nova_openldap schema failed insertion
 [Fix] Bugs #2368: Doesn't work for schac.schema
 [Fix] Wishlist #2283: A license should be chosen for the tool
-

@@ -19,4 +19,3 @@ Your email can be signed with the following public gpg key :
 Benoit Mortier : **32BA 180F 6E14 7B5F 52BE 6322 EF2F F1E4 8638 EAD1**
 
 **In any case, you should not share details with anyone else until the bug fix has been officially released.**
-

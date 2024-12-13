@@ -13,4 +13,3 @@ documentation and additional help.
 
 * Jonathan Swaelens <jonathan.swaelens@fusiondirectory.org>
   Bugtracking, QA
-

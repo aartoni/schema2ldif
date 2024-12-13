@@ -43,4 +43,3 @@
 - schema2ldif#2282 Cn inside schema conversion should not have .schema behind schema name
 - schema2ldif#2337 nova_openldap schema failed insertion
 - schema2ldif#2368 Doesn't work for schac.schema
-
